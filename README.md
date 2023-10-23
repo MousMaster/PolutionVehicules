@@ -6,3 +6,10 @@ Contexte: Green NCAP est un organisme indépendant qui éffectue des évaluation
 Notre objectif dans cette partie est d'éffectuer des modèles NLPs pour récuperer les noms de marques et de carburants qui servirons à éffectuer des visualitions.
 
 URL du site: https://www.greenncap.com/assessments/
+
+Dictionnaire des variables :
+Energy EFFICIENCY: L'Index d'Efficacité Énergétique mesure la consommation d'énergie des véhicules.
+
+GreenHouse Gaz : L'Index des Gaz à Effet de Serre mesure les émissions de gaz à effet de serre,
+
+Clean Air : L'Index de l'Air Pur dans la procédure de test de Green NCAP mesure les émissions de polluants des véhicules.
