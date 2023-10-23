@@ -15,4 +15,4 @@ GreenHouse Gaz : L'Index des Gaz à Effet de Serre mesure les émissions de gaz 
 Clean Air : L'Index de l'Air Pur dans la procédure de test de Green NCAP mesure les émissions de polluants des véhicules.
 
 
-CF : Une documentation complète se trouve au niveau du document pdf. 
+CF : Une documentation complète se trouve au niveau du document HTML. 
